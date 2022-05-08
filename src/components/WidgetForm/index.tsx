@@ -77,8 +77,8 @@ export function WidgetForm() {
         </>
       )}
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ pela{" "}
-        <a className="underline underline-offset-2"> Rocketseat </a>
+        Feito com ♥ por{" "}
+        <a className="underline underline-offset-2"> Jefferson Sotto </a>
       </footer>
     </div>
   );
