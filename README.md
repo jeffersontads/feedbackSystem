@@ -47,11 +47,15 @@ Atualmente trabalho em uma empresa de desenvolvimento de softwares como desenvol
 
 
 
-## Melhorias
+## Melhorias (extras)
 
 - Criar dark mode
+- Usar serviço de email para produção (atual é mailTrap para testes)
+- Melhorar HTML e CSS do email
+- Criar um dashboard de feedbacks (visualizar os feedback)
+- Adicionar Login (Firebase / OAuth)
 - Adicionar mais integrações
 - Adicionar formulário de cadastro newsletter
-- Adicionar Login
 - Adicionar Páginas (Home, Quem Somos, Serviços, Contatos, Blog)
+- No Backend (tratar erros e validação)
 
